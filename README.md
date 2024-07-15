@@ -1,4 +1,5 @@
 # Line Encoding Visualizer
+https://medium.com/@nkharshbachhav/understanding-line-encoding-a-visual-guide-to-digital-communication-techniques-bfc89eea6fb4
 
 This Python script visualizes various line encoding techniques used in digital communication systems. It provides a graphical representation of how binary data is encoded into digital signals.
 
